@@ -12,7 +12,7 @@ var tempo = 15;
 // ex.addEventListener("click", tempo());
 
 function mudar() {
-    vid.src = "./videos/" + video[i];
+    vid.src = "./video/" + video[i];
     parag.innerHTML = 'Video: <b>' + video[i] + '<b>';
     i++;
     if (i == video.length) {i = 0}
