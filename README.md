@@ -4,4 +4,4 @@
 
 <p>Uma página animada tema one piece ultilizando videos e transiçoes, baseada no ultimo projeto passado pelo professor, e no conteudo do semestre.</p>
 
-<a href='https://guidev1.github.io/Pagina-aniimada-one-piece/'>Visualização</a>
+<a href='https://guidev1.github.io/Pagina-aniimada-one-piece/' target='_blank'> Clique aqui para visualizar</a>
